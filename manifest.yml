@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: IOTCar
-  host: IOTcar
+  host: jisliu
   disk_quota: 1024M
